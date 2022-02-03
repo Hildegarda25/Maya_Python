@@ -7,11 +7,12 @@ alias crear="touch"
 alias borrar="rm -R"
 cat comandos.txt
 code . = permite abrir el visual code
-alias actualizar="git pull origin main"
-alias subir="git push origin main"
-alias agregar="git add ."
-alias estado="git status"
 alias log="git log"
+alias estado="git status"
+alias agregar="git add ."
 alias registro="git commit -m"
+alias subir="git push origin main"
+alias actualizar="git pull origin main"
+
 
 
