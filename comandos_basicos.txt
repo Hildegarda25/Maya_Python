@@ -1,0 +1,13 @@
+pwd = te dice la posicion donde te encuentras
+ls = listar archivos
+touch = crear archivos
+mkdir = crea directorios
+rm -R = borrar dirtectorios o carpoetas
+alias crear="touch"
+alias borrar="rm -R"
+cat comandos.txt
+code . = permite abrir el visual code
+alias actualizar="git pull origin main"
+alias subir="git push origin main"
+alias agregar="git add ."
+
