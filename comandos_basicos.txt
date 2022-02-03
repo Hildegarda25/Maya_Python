@@ -10,4 +10,8 @@ code . = permite abrir el visual code
 alias actualizar="git pull origin main"
 alias subir="git push origin main"
 alias agregar="git add ."
+alias estado="git status"
+alias log="git log"
+alias registro="git commit -m"
+
 
